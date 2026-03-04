@@ -22,7 +22,7 @@ This bibliography lists foundational, journal, and conference papers relevant to
 
 ## Category III: Recent Conference Papers
 
-- **[C1]** Park et al. (2019). Symmetric Graph Conv Autoencoder for unsupervised learning. ICCV 2019. [Link]https://arxiv.org/abs/1908.02441
+- **[C1]** Park et al. (2019). Symmetric Graph Conv Autoencoder for unsupervised learning. ICCV 2019. [Link](https://arxiv.org/abs/1908.02441)
 - **[C2]** Litany et al. (2018). Deformable shape completion with GCA. CVPR 2018. [Link](https://arxiv.org/abs/1712.00268)
 - **[C3]** Yu et al. (2024). PolygonGNN: Representation learning for polygonal geometries. KDD 2024. [Link](https://dl.acm.org/doi/10.1145/3637528.3671884)
 - **[C4]** Ahn et al. (2021). Variational Graph Normalized Autoencoders. CIKM 2021. [Link](https://dl.acm.org/doi/10.1145/3459637.3482215)
