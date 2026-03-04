@@ -1,5 +1,5 @@
 # Bibliography — CS 5463/4953 Term Project
-Bibliography – Survey on Graph Convolutional Autoencoders for Spatial Shape Representation
+**Survey on Graph Convolutional Autoencoders for Spatial Shape Representation and Analysis**
 
 This bibliography lists foundational, journal, and conference papers relevant to graph convolutional autoencoders, geometric deep learning, and approximate similarity search over spatial datasets.
 ---
