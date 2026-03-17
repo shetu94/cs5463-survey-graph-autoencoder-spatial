@@ -32,3 +32,20 @@ This bibliography lists foundational, journal, and conference papers relevant to
 - **[C8]** Fu et al. (2024). Reasoning cartographic knowledge with explainable AI. IJGIS. [Link](https://doi.org/10.1080/13658816.2024.2369535)
 - **[C9]** Mai et al. (2023). Foundation models for geospatial AI: Opportunities and challenges. [Link](https://arxiv.org/abs/2304.04224)
 - **[C10]** Douze et al. (2024). The FAISS library. arXiv. [Link](https://arxiv.org/abs/2401.08281)
+
+## Additional Papers: Other ML Architectures (Professor's Feedback)
+
+- **[A1]** Zhang, H., et al. (2025). *PSRT: A transformer-based approach for efficient geometric feature extraction from vector shape data.* Applied Sciences, 15, 2383. [Link](https://www.mdpi.com/2076-3417/15/5/2383)
+- **[A2]** Zhan, W., & Datta, A. (2024). *Neural networks for geospatial data (NN-GLS).* Journal of the American Statistical Association, 120(549), 535–547. [Link](https://arxiv.org/abs/2304.09157)
+- **[A3]** Jia, Y., et al. (2024). *GeoTransformer: Enhancing urban forecasting with geospatial attention mechanisms.* arXiv:2408.08852. [Link](https://arxiv.org/abs/2408.08852)
+- **[A4]** Liu, Y., et al. (2025). *Representation learning for geospatial data.* Annals of GIS / International Journal of Digital Earth. [Link](https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2552157)
+
+## Additional Papers: HPC Aspects (Professor's Feedback)
+
+- **[H1]** Shao, Y., et al. (2024). *Distributed graph neural network training: A survey.* ACM Computing Surveys, 56(8), 1–39. [Link](https://dl.acm.org/doi/10.1145/3648358)
+- **[H2]** Dang, H., et al. (2024). *GDL-GNN: Applying GPU dataloading of large datasets for graph neural network inference.* Euro-Par 2024. [Link](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_24)
+- **[H3]** Armstrong, M. P., & Densham, P. J. (2020). *High performance computing for geospatial applications: A prospective view.* Springer. [Link](https://link.springer.com/chapter/10.1007/978-3-030-47998-5_15)
+
+---
+
+*Note: This bibliography is continually updated as the literature search progresses. All reference links are verified and available above.*
