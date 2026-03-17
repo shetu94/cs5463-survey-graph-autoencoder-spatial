@@ -4,6 +4,7 @@
 
 
 Category I: Foundational Papers (4)
+
 [F1]  Kipf, T. N., & Welling, M. (2017). Semi-supervised classification with graph convolutional networks. ICLR 2017.
 URL: https://arxiv.org/abs/1609.02907
 Annotation: This paper introduces the Graph Convolutional Network (GCN), a scalable framework for learning on graph-structured data using a layer-wise propagation rule derived from spectral graph convolutions. The model encodes both local graph structure and node features simultaneously, scaling linearly with the number of edges. It serves as the backbone architecture for most subsequent graph autoencoder models used in spatial shape encoding tasks.
