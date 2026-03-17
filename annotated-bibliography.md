@@ -3,7 +3,7 @@
                      Survey Title: Survey on Graph Convolutional Autoencoders for Spatial Shape Representation and Analysis
 
 
-Category I: Foundational Papers (4)
+**Category I: Foundational Papers (4)**
 
 [F1]  Kipf, T. N., & Welling, M. (2017). Semi-supervised classification with graph convolutional networks. ICLR 2017. URL: https://arxiv.org/abs/1609.02907
 Annotation: This paper introduces the Graph Convolutional Network (GCN), a scalable framework for learning on graph-structured data using a layer-wise propagation rule derived from spectral graph convolutions. The model encodes both local graph structure and node features simultaneously, scaling linearly with the number of edges. It serves as the backbone architecture for most subsequent graph autoencoder models used in spatial shape encoding tasks.
@@ -20,7 +20,7 @@ Annotation: The foundational paper introducing the Variational Autoencoder (VAE)
 URL: https://doi.org/10.1080/13658816.2020.1768260
 Annotation: This paper directly applies GCAE to the problem of building shape coding in cartographic maps. Building boundaries are modeled as graphs, and multiple vertex features capturing local and regional geometry are extracted. The unsupervised GCAE produces shape codes that outperform geometric baselines in similarity measurement, shape retrieval, and matching tasks — making it the most directly relevant foundational work for this survey.
 
-Category II: Recent Journal Papers (6)
+**Category II: Recent Journal Papers (6)**
 
 [J1]  Huang, Z., Khoshelham, K., & Tomko, M. (2022). A comparative study of various deep learning approaches to shape encoding of planar geospatial objects. ISPRS IJGI, 11(10), 527.
 URL: https://www.mdpi.com/2220-9964/11/10/527
@@ -46,7 +46,7 @@ Annotation: This editorial survey reviews recent deep learning techniques applie
 URL: https://doi.org/10.1080/10106049.2024.2306265
 Annotation: This paper uses a graph neural network to classify and select the most appropriate generalization operators (simplification, aggregation, typification) for building footprints at multiple map scales. The GNN encodes building geometry and contextual relationships to predict operator selection, outperforming rule-based methods. It demonstrates how learned spatial shape representations can directly support cartographic decision-making tasks.
 
-Category III: Recent Conference Papers (10)
+**Category III: Recent Conference Papers (10)**
 
 [C1]  Park, J., Lee, D., Ham, J., & Baek, J. (2019). Symmetric graph convolutional autoencoder for unsupervised graph representation learning. ICCV 2019, pp. 6519–6528.
 URL: https://arxiv.org/abs/1908.02441
@@ -88,7 +88,7 @@ Annotation: This paper surveys the applicability of large foundation models (tra
 URL: https://arxiv.org/abs/2401.08281
 Annotation: This is the comprehensive reference paper for the FAISS library, detailing its full range of indexing algorithms including flat, IVF, PQ, HNSW, and their GPU variants. It describes the software engineering decisions behind billion-scale vector search and reports benchmark performance across multiple hardware configurations. As the primary HPC tool for similarity search over spatial shape embeddings, understanding FAISS indexing strategies is essential for implementing scalable spatial retrieval systems.
 
-Additional Papers: Other ML Architectures (Per Professor Feedback)
+**Additional Papers: Other ML Architectures (Per Professor Feedback)**
 
 [A1]  Zhang, H., et al. (2025). PSRT: A transformer-based approach for efficient geometric feature extraction from vector shape data. Applied Sciences, 15, 2383.
 URL: https://www.mdpi.com/2076-3417/15/5/2383
@@ -107,7 +107,7 @@ URL: https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2552157
 Annotation: This recent survey covers a spectrum of representation learning methods for geospatial data including graph-based, sequence-based (RNN/LSTM), and attention-based (transformer) approaches. It categorizes methods by data type (point clouds, polygons, raster grids) and identifies benchmark datasets for evaluation. The survey contextualizes where GCAEs sit relative to competing ML architectures for spatial data representation.
 
 
-Additional Papers: HPC Aspects (Per Professor Feedback)
+**Additional Papers: HPC Aspects (Per Professor Feedback)**
 
 [H1]  Shao, Y., et al. (2024). Distributed graph neural network training: A survey. ACM Computing Surveys, 56(8), 1–39.
 URL: https://dl.acm.org/doi/10.1145/3648358
