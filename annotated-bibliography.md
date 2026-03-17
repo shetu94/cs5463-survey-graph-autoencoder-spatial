@@ -1,7 +1,6 @@
-CS 5463/4953 — Survey-Based Term Project
-Annotated Bibliography of Literature Found
-Survey Title: Survey on Graph Convolutional Autoencoders for Spatial Shape Representation and Analysis
-Syeda Farjana Shetu  |  20th March 2026
+                              CS 5463/4953 — Survey-Based Term Project
+                             Annotated Bibliography of Literature Found
+       Survey Title: Survey on Graph Convolutional Autoencoders for Spatial Shape Representation and Analysis
 
 
 Category I: Foundational Papers (4)
