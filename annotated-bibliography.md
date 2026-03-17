@@ -1,6 +1,6 @@
-                              CS 5463/4953 — Survey-Based Term Project
-                             Annotated Bibliography of Literature Found
-       Survey Title: Survey on Graph Convolutional Autoencoders for Spatial Shape Representation and Analysis
+                                              CS 5463/4953 — Survey-Based Term Project
+                                             Annotated Bibliography of Literature Found
+                     Survey Title: Survey on Graph Convolutional Autoencoders for Spatial Shape Representation and Analysis
 
 
 Category I: Foundational Papers (4)
